@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="100%" height="100%">
+  <rect width="200" height="120" rx="8" fill="#090d16" />
+  <!-- Class 0: Setosa (Cyan) -->
+  <circle cx="45" cy="85" r="3" fill="#22d3ee" />
+  <circle cx="55" cy="78" r="3" fill="#22d3ee" />
+  <circle cx="50" cy="92" r="3" fill="#22d3ee" />
+  <circle cx="62" cy="84" r="3" fill="#22d3ee" />
+  <circle cx="40" cy="75" r="3" fill="#22d3ee" />
+  <!-- Class 1: Versicolor (Indigo) -->
+  <circle cx="105" cy="55" r="3" fill="#818cf8" />
+  <circle cx="115" cy="48" r="3" fill="#818cf8" />
+  <circle cx="110" cy="62" r="3" fill="#818cf8" />
+  <circle cx="125" cy="52" r="3" fill="#818cf8" />
+  <circle cx="98" cy="45" r="3" fill="#818cf8" />
+  <!-- Class 2: Virginica (Violet) -->
+  <circle cx="150" cy="35" r="3" fill="#c084fc" />
+  <circle cx="160" cy="28" r="3" fill="#c084fc" />
+  <circle cx="155" cy="42" r="3" fill="#c084fc" />
+  <circle cx="170" cy="32" r="3" fill="#c084fc" />
+  <circle cx="145" cy="25" r="3" fill="#c084fc" />
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="100%" height="100%">
+  <rect width="200" height="120" rx="8" fill="#090d16" />
+  <!-- Diagonal separating hyperplane hint -->
+  <line x1="40" y1="100" x2="160" y2="20" stroke="#0ea5e9" stroke-width="1.5" stroke-dasharray="3 3" stroke-opacity="0.6" />
+  <!-- Class 0: Malignant (Rose/Violet) -->
+  <circle cx="65" cy="40" r="3" fill="#f43f5e" />
+  <circle cx="75" cy="30" r="3" fill="#f43f5e" />
+  <circle cx="55" cy="50" r="3" fill="#f43f5e" />
+  <circle cx="85" cy="45" r="3" fill="#f43f5e" />
+  <circle cx="70" cy="58" r="3" fill="#f43f5e" />
+  <circle cx="95" cy="35" r="3" fill="#f43f5e" />
+  <circle cx="60" cy="32" r="3" fill="#f43f5e" />
+  <!-- Class 1: Benign (Emerald/Cyan) -->
+  <circle cx="120" cy="80" r="3" fill="#10b981" />
+  <circle cx="135" cy="72" r="3" fill="#10b981" />
+  <circle cx="110" cy="90" r="3" fill="#10b981" />
+  <circle cx="145" cy="85" r="3" fill="#10b981" />
+  <circle cx="130" cy="95" r="3" fill="#10b981" />
+  <circle cx="155" cy="78" r="3" fill="#10b981" />
+  <circle cx="125" cy="68" r="3" fill="#10b981" />
+</svg>
